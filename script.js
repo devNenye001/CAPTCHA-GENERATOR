@@ -1,6 +1,6 @@
 //CAPTCHA PROGRAM
 
-const captchaText = document.getElementById("captc");
+const captchaText = document.getElementById("captcha");
 const refreshBtn = document.getElementById("refresh");
 const submitBtn = document.getElementById("submit");
 const input = document.getElementById("userInput");
